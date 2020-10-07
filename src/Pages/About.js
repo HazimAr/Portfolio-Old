@@ -10,8 +10,8 @@ const About = () => {
     return (
     <div>
 
-         <div className="home-top-description-title">
-                <h1>Hi there, I'm Nik.</h1>
+            <div className="home-top-description-title">
+                <h1>Hey there, I'm Hazim.</h1>
                 <p className="home-top-description">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa vitae tortor condimentum lacinia. Morbi quis commodo odio aenean sed adipiscing. Penatibus et magnis dis parturient montes nascetur ridiculus. Ipsum suspendisse ultrices gravida dictum. Egestas congue quisque egestas diam in arcu cursus euismod quis. Neque convallis<br /><br />  a cras semper auctor neque vitae tempus. Elit ut aliquam purus sit amet. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Sed tempus urna et pharetra. Eu lobortis elementum nibh tellus. Facilisis volutpat est velit egestas dui id ornare. Nisi lacus sed viverra tellus in hac habitasse platea. Elementum tempus egestas sed sed risus pretium. Sit amet massa vitae tortor. Dui sapien eget mi proin sed. Orci phasellus egestas tellus rutrum tellus pellentesque. Sed viverra tellus in hac.
 
@@ -72,7 +72,7 @@ const About = () => {
                     <br />
                     React Native <br />
                 </p>
-                Questions? Contact me at <a href="mailto:nikkschaefer@gmail.com" type="text-link">nikkschaefer@gmail.com</a><br />
+                Questions? Contact me at <a href="mailto:hazimarafa80@gmail.com" type="text-link">hazimarafa80@gmail.com</a><br />
 
 
 
