@@ -31,9 +31,43 @@ const Home = () => {
                     <p className="home-card-label-div-text-purple">
                         Internship
                     </p>
+
             </div>
 
 
+            <div class="card">
+                <img src={k5red} alt="" className="card-img" />
+                <div class="container">
+                    <h4><b>K5 Gaming</b></h4>
+                    <p>Official K5 Esports Website</p>
+                </div>
+                <p className="home-card-label-div-text-blue">
+                        Full Stack + Design
+                    </p>
+            </div>
+
+            <div class="card">
+                <img src={Nebula} alt="" className="card-img" />
+                <div class="container">
+                    <h4><b>Nebula Esports</b></h4>
+                    <p>Official Nebula Esports Website</p>
+                </div>
+                <p className="home-card-label-div-text-orange">
+                Full Stack + Design
+                    </p>
+            </div>
+
+            <div class="card">
+                <img src={RB} alt="" className="card-img-blur" />
+                <div class="container">
+                    <h4><b>RocketBeast</b></h4>
+                    <p>Official Rocket Beast Website</p>
+                </div>
+                <p className="home-card-label-div-text-red">
+                        Full Stack + Design
+                    </p>
+                    
+            </div>
 
         </div>
     )
